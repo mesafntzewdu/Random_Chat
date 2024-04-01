@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332816369758",
+    "project_id": "chat-8b5cd",
+    "storage_bucket": "chat-8b5cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332816369758:android:be3e6a13586db6f8f7cccf",
+        "android_client_info": {
+          "package_name": "com.mesafint.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2lSvoXDSbngwpmoTd7IvR-F-h6OOMYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
